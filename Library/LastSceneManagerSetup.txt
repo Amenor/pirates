@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/TestChar.unity
+- path: Assets/_Scenes/Hack&Slash.unity
   isLoaded: 1
   isActive: 1
