@@ -16,3 +16,5 @@ priority th
 4 - lock pick
 
 test
+incrementing fucks given:
+fuck +, +, +
